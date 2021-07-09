@@ -1,4 +1,4 @@
-#basic calculator v.2.1 - created by jake adams spring 2021
+#basic calculator v.2.1 - created by cryptomancery spring 2021
 #create variable for add
 def add():
     while true:
